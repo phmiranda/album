@@ -1,0 +1,20 @@
+# comentário.
+.idea/
+.vscode/
+
+# comentário.
+gen/
+target/
+out/
+
+# comentário.
+.mvn/
+mvnw.cmd
+mvnw
+
+# comentário.
+HELP.md
+
+# comentário.
+*.iml
+*.log
