@@ -12,7 +12,7 @@
 	<name>album</name>
 	<groupId>br.com.phmiranda</groupId>
 	<artifactId>album</artifactId>
-	<description>API de cadastro de alunos de uma instituição.</description>
+	<description>API de cadastro de fotos para o instagram.</description>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
