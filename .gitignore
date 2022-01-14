@@ -3,6 +3,9 @@
 .vscode/
 
 # comentário.
+src/main/resources/application.properties
+
+# comentário.
 gen/
 target/
 out/
