@@ -4,6 +4,9 @@
 
 # comentário.
 src/main/resources/application.properties
+src/main/resources/bootstrap.properties
+src/main/resources/application.yml
+src/main/resources/bootstrap.yml
 
 # comentário.
 gen/
