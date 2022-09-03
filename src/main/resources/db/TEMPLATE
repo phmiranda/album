@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS db_album;
+CREATE TABLE nomes_das_tabelas(
+    id INT NOT NULL PRIMARY KEY,
+    campo1 VARCHAR(250) NOT NULL ,
+    campo2 TEXT NULL
+);

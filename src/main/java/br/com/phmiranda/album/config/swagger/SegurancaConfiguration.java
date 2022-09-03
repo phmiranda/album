@@ -6,7 +6,7 @@
  * Date: 14/01/2022
  */
 
-package br.com.phmiranda.album.config;
+package br.com.phmiranda.album.config.swagger;
 
 import org.springframework.context.annotation.Configuration;
 
