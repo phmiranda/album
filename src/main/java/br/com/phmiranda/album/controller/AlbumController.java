@@ -24,6 +24,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import javax.validation.Valid;
 
 @RestController
+@CrossOrigin(origins = "*")
 @RequestMapping("/albuns")
 public class AlbumController {
     @Autowired
